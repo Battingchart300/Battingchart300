@@ -19,4 +19,5 @@ Python · Docker · PySide6 · local AI
 
 ## Elsewhere
 
+- Portfolio: https://battingchart300.github.io/
 - Demos on Hugging Face: https://huggingface.co/Battingchart300
